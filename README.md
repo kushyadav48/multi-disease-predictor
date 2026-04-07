@@ -70,4 +70,7 @@ Optional enhancements:
 - The heart disease model was trained with scikit-learn 1.0.2; loading it with newer versions may emit an `InconsistentVersionWarning`. Re-training with 1.3.2 and re-serializing (or pinning to 1.0.2) avoids the warning.
 - The TensorFlow brain model expects 150×150 images; the app already resizes and converts to BGR/GRAYSCALE as needed.
 
+##Github repository link 
+https://github.com/kushyadav48/multi-disease-predictor.git
+
 
